@@ -1,3 +1,5 @@
+<img width="1917" height="1020" alt="lru-cache-output" src="https://github.com/user-attachments/assets/185d5dc8-ab23-4288-b47d-6a17b64ff1c7" />
+
 # LRU Cache — Problem Solving
 
 A TypeScript implementation of a **Least Recently Used (LRU) Cache** supporting `get()` and `put()` operations with **O(1) average time complexity**.
