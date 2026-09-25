@@ -1,0 +1,15 @@
+{
+  "name": "lru-cache-assessment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "O(1) average LRU Cache implementation using TypeScript Map",
+  "scripts": {
+    "demo": "tsx examples/demo.ts",
+    "test": "tsx test/lru-cache.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
